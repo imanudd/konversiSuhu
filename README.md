@@ -1,1 +1,0 @@
-# fast_campus_course
